@@ -1,0 +1,6 @@
+{
+  "name": "企业项目与合同全生命周期管理系统",
+  "description": "提供父子项目管理、往来客户、收付款合同、发票流、保证金跟踪、多级审批、细粒度权限控制及操作日志审计的智能化财务项目一体化管理平台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
